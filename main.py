@@ -364,7 +364,7 @@ frame1.place(relx=0.11, rely=0.17, relwidth=0.39, relheight=0.80)
 frame2 = tk.Frame(window, bg="#E0E5E5")
 frame2.place(relx=0.51, rely=0.17, relwidth=0.38, relheight=0.80)
 
-message3 = tk.Label(window, text="Face Recognition Attendance System" ,fg="white",bg="#000000" ,width=55 ,height=1,font=('comic', 29, ' bold '))
+message3 = tk.Label(window, text="FACE RECOGNITION BASED ATTENDANCE SYSTEM" ,fg="white",bg="#000000" ,width=55 ,height=1,font=('comic', 29, ' bold '))
 message3.place(x=10, y=10)
 
 frame3 = tk.Frame(window, bg="#000000")
